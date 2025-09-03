@@ -21,50 +21,25 @@ Pasos a seguir:
 
 #### 1. Accede al módulo de administrador.
 
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
+![Dashboard](/public/dashboard.png)
 
-#### 2. Ingresa a la sección "Gestión de tablas".
+#### 2. Ingresa a la sección "Bodegas".
 
-![Imagen ilustrativa](/public/tablas.png)
+![Imagen ilustrativa](/public/bodegas.png)
 
-#### 3. Busca la tabla **Bodegas** y haz clic en el ícono **"+"** para crear una nueva.
+#### 3. Busca la  **Bodega** que quieras ingreasar y haz clic **"Agregar Bodega** para crear una nueva.
 
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
+![Imagen ilustrativa](/public/formulario_b.png)
+#### 4. Completa los campos requeridos y haz clic en **"Agregar"**.
 
-#### 4. Completa los campos requeridos y haz clic en **"Crear bodega"**.
+![Imagen ilustrativa](/public/formulario_b.png)
 
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
+#### 5. Para verificar la creación, refresca la pagina y se podran visualizar todas las bodegas y buscar la recién registrada.
 
-#### 5. Para verificar la creación, haz clic en el ícono del **ojo** para visualizar todas las bodegas y buscar la recién registrada.
-
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
+![Imagen ilustrativa](/public/bodega_n.png)
 
 ---
 
-## Opción 2: Cualquier rol
-
-Esta alternativa está disponible para **todos los roles**. Consiste en acceder directamente al **módulo de Bodegas** y seguir estos pasos:
-
-#### 1. Ingresa al módulo de Bodegas.
-
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
-
-#### 2. Haz clic en el botón **"Nueva bodega"**.
-
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
-
-#### 3. Se abrirá un formulario para ingresar los datos requeridos.
-
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
-
-#### 4. Completa los campos y haz clic en **"Crear bodega"**.
-
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
-
-#### 5. Para comprobar la creación, filtra el nombre en la barra de búsqueda. Si el proceso fue exitoso, la bodega aparecerá en los resultados.
-
-![Imagen ilustrativa](https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.png)
-
 :::tip
-Ambas opciones son válidas. Elige la que mejor se adapte a tus permisos y necesidades dentro del sistema.
+Asegurate de contar con los permisos para poder realizar esta acción.
 :::

@@ -13,7 +13,7 @@ Asegurese de ingresar correctamente sus credenciales como correo y contraseña.
 
 ```json
 {
-  "correo": "admin@gmail.com",
+  "correo": "daniela@gmail.com",
   "contraseña": 123456
   
 }
